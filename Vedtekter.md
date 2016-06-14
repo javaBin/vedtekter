@@ -47,16 +47,16 @@ Alle medlemskap gir en stemme på årsmøte. Totalt kan antall stemmer fra en og
 
 Ordinært årsmøte holdes hvert år innen 1. juni. Saksliste og dokumenter sendes senest 14 dager før møtet. Styret skal skal sende ut forespørsel om saker til Årsmøtet senest 4 uker før innkallingen sendes ut, med en frist for innsendelse 1 uke før innkallingen sendes ut.
 Det ordinære årsmøtet skal behandle følgende saker i oppgitt rekkefølge:
- - Valg av møteleder og referent
- - Godkjennelse av innkallingen, representantene og deres stemmerett
- - Årsberetningen
- - Regnskapet
- - Budsjettet
- - Eventuelle vedtektsendringer
- - Eventuelle endringer i kjerneundergrupper
- - Andre innkomne forslag (kan ikke være vedtektsendringer)
- - Spørsmål & Svar
- - Valg av nytt styre
+ 1. Valg av møteleder og referent
+ 2. Godkjennelse av innkallingen, representantene og deres stemmerett
+ 3. Årsberetningen
+ 4. Regnskapet
+ 5. Budsjettet
+ 6. Eventuelle vedtektsendringer
+ 7. Eventuelle endringer i kjerneundergrupper
+ 8. Andre innkomne forslag (kan ikke være vedtektsendringer)
+ 9. Spørsmål & Svar
+ 10. Valg av nytt styre
 
 Dersom enkelte punkter på agenda ikke blir godkjent må det innkalles til ekstraordinært årsmøte for behandling av disse.
 
