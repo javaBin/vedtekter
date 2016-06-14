@@ -5,14 +5,14 @@ Foreningens navn er "Java brukerforening i Norge". Forkortet skrives navnet "jav
 
 ## Formål
 Foreningens formål er å:
- - styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
- - skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
+ - Styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
+ - Skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
 
 Foreningen søker å nå sine mål, blant annet ved å:
- - skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
- - arrangere seminarer, kurser og liknende, alene eller i samarbeid med andre faglige sammenslutninger.
- - arrangere medlemsmøter med faglige foredrag, diskusjoner og uformelt samvær.
- - holde kontakt og utveksle erfaringer med andre tilsvarende foreninger i utlandet.
+ - Skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
+ - Arrangere seminarer, kurser og liknende, alene eller i samarbeid med andre faglige sammenslutninger.
+ - Arrangere medlemsmøter med faglige foredrag, diskusjoner og uformelt samvær.
+ - Holde kontakt og utveksle erfaringer med andre tilsvarende foreninger i utlandet.
 
 Foreningen har ingen kommersielle interesser og må ikke engasjere seg i aktiviteter som utelukkende tjener økonomiske formål. Foreningen opptrer ikke som representant for noen yrkes- eller næringsgruppe til fremme av dens økonomiske interesser. Foreningen og dens organer og hjelpemidler, må ikke brukes til arbeid for politiske eller forretningsmessige særinteresser.
 
@@ -28,9 +28,9 @@ bunter (f.eks 15, 30, 50, 100+) tilpasset bedrifter med flere medlemmer.
 Bedrifter kan selv administrere sine personlige medlemskap.
 
 Medlemskap gir:
- - valgbarhet til verv innen foreningen
- - tilgang til alle foreningens arrangementer
- - redusert pris på arrangementer
+ - Valgbarhet til verv innen foreningen
+ - Tilgang til alle foreningens arrangementer
+ - Redusert pris på arrangementer
 
 Tilgang til foreningens aktiviteter gis til alle medlemmer.
 
@@ -70,7 +70,7 @@ Avstemming på Årsmøte skal gjennomføres i henhold til følgende prosedyre.
  - Stemming gjennomføres ved å telle antall stemmer for, mot og blanke og kandidaten må positivt flertall av ikke-blanke stemmer.
  - Man har 1 stemme per rolle til leder, nestleder og økonomiansvarlig. Rollen besettes ved absolutt flertall.
  - Man har 1 stemme per kandidat til øvrige styremedlemmer. Disse stemmes det på én etter én, og alle stemmeberettigede avgir sin stemme på hver kandidat. En kandidat må ha positivt (antall 'ja' minus antall 'nei') for å bli valgt inn.
- - Er det flere kandidater til valg enn styreplasser, sorteres kandidatene etter antall positive stemmer.Dersom det står likt mellom noen kandidater til de siste plassene, avgjøres det med ny stemmerunde hvor man da skal stemme på én av kandidatene. Den/de som får flest stemmer får plass i styret.
+ - Er det flere kandidater til valg enn styreplasser, sorteres kandidatene etter antall positive stemmer. Dersom det står likt mellom noen kandidater til de siste plassene, avgjøres det med ny stemmerunde hvor man da skal stemme på én av kandidatene. Den/de som får flest stemmer får plass i styret.
 
 Simpelt flertall: https://no.wikipedia.org/wiki/Simpelt_flertall
 Absolutt flertall: https://no.wikipedia.org/wiki/Absolutt_flertall
