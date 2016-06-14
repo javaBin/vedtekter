@@ -129,12 +129,12 @@ Sikre kandidater for de tilgjengelige styreplasser slik at disse blir besatt i h
 Valgkomitéen skal legge frem forslag på styre for årsmøtet, med sammensetning som angitt i vedtektene.
 
 
-### Endring av vedtekter
+## Endring av vedtekter
 Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. Vedtektsendringer skal for å være vedtatt, ha flertall med minst 2/3 av de avgitte stemmer på årsmøtet. Forslag til vedtektsendringer må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Avstemning om vedtektsendringer gjøres som ved absolutt flertall, hvor forslaget må ha 2/3 av stemmene avgitt av stemmeberettigede. Dette inkluderer blanke stemmer som vil telle mot forslaget.
 
 
-### Oppløsning
+## Oppløsning
 Foreningen kan oppløses på et ordinært årsmøte med minst 2/3 flertall. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
-### Exit fra styret
+## Exit fra styret
 Et medlem kan ved særskilte situasjoner be om en exit fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
