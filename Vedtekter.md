@@ -70,7 +70,7 @@ Avstemming på Årsmøte skal gjennomføres i henhold til følgende prosedyre.
  - Stemming gjennomføres ved å telle antall stemmer for, mot og blanke og kandidaten må positivt flertall av ikke-blanke stemmer.
  - Man har 1 stemme per rolle til leder, nestleder og økonomiansvarlig. Rollen besettes ved absolutt flertall.
  - Man har 1 stemme per kandidat til øvrige styremedlemmer. Disse stemmes det på én etter én, og alle stemmeberettigede avgir sin stemme på hver kandidat. En kandidat må ha positivt (antall 'ja' minus antall 'nei') for å bli valgt inn.
- - Er det flere kandidater til valg enn styreplasser, sorteres kandidatene etter antall positive stemmer.Dersom det står likt mellom noen kandidater til de siste plassene, avgjøres det med ny stemmerunde hvor man da skal stemme på én av kandidatene. Den/de som får flest stemmer får plass i styret.
+ - Er det flere kandidater til valg enn styreplasser, sorteres kandidatene etter antall positive stemmer. Dersom det står likt mellom noen kandidater til de siste plassene, avgjøres det med ny stemmerunde hvor man da skal stemme på én av kandidatene. Den/de som får flest stemmer får plass i styret.
 
 Simpelt flertall: https://no.wikipedia.org/wiki/Simpelt_flertall
 Absolutt flertall: https://no.wikipedia.org/wiki/Absolutt_flertall
