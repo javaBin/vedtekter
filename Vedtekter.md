@@ -1,5 +1,6 @@
 # Navn
 Foreningens navn er "Java brukerforening i Norge". Forkortet skrives navnet "javaBin". Foreningen er registrert med organisasjonsnummer 985 842 655 i Enhetsregisteret.
+
 # Formål
 Foreningens formål er å:
  - styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
@@ -14,7 +15,6 @@ Foreningen søker å nå sine mål, blant annet ved å:
 Foreningen har ingen kommersielle interesser og må ikke engasjere seg i aktiviteter som utelukkende tjener økonomiske formål. Foreningen opptrer ikke som representant for noen yrkes- eller næringsgruppe til fremme av dens økonomiske interesser. Foreningen og dens organer og hjelpemidler, må ikke brukes til arbeid for politiske eller forretningsmessige særinteresser.
 
 # Undergrupper
-
 Det kan opprettes undergrupper blant foreningens medlemmer med styrets godkjenning. Hver slik gruppe skal ha en leder og varaleder. Gruppen må rapportere til styret. Styret kan bevilge resurser til disse gruppene, inklusive økonomisk støtte og tilgang til javaBins systemer og infrastruktur.
 
 # Kjerneundergrupper
