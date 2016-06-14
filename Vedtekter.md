@@ -1,7 +1,9 @@
-# Navn
+# javaBin vedtekter
+
+## Navn
 Foreningens navn er "Java brukerforening i Norge". Forkortet skrives navnet "javaBin". Foreningen er registrert med organisasjonsnummer 985 842 655 i Enhetsregisteret.
 
-# Formål
+## Formål
 Foreningens formål er å:
  - styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
  - skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
@@ -14,13 +16,13 @@ Foreningen søker å nå sine mål, blant annet ved å:
 
 Foreningen har ingen kommersielle interesser og må ikke engasjere seg i aktiviteter som utelukkende tjener økonomiske formål. Foreningen opptrer ikke som representant for noen yrkes- eller næringsgruppe til fremme av dens økonomiske interesser. Foreningen og dens organer og hjelpemidler, må ikke brukes til arbeid for politiske eller forretningsmessige særinteresser.
 
-# Undergrupper
+## Undergrupper
 Det kan opprettes undergrupper blant foreningens medlemmer med styrets godkjenning. Hver slik gruppe skal ha en leder og varaleder. Gruppen må rapportere til styret. Styret kan bevilge resurser til disse gruppene, inklusive økonomisk støtte og tilgang til javaBins systemer og infrastruktur.
 
-# Kjerneundergrupper
+## Kjerneundergrupper
 Styret kan definere et sett med kjerneundergrupper. De har samme ansvar og oppgaver som vanlige undergrupper, men leder av gruppen må være et styremedlem.
 
-# Medlemskap
+## Medlemskap
 Foreningen har personmedlemskap. Medlemsskap kan kjøpes enkeltvis eller i
 bunter (f.eks 15, 30, 50, 100+) tilpasset bedrifter med flere medlemmer.
 Bedrifter kan selv administrere sine personlige medlemskap.
@@ -38,11 +40,11 @@ medlemskapskontigent.
 Opptrer et medlem på et måte som er skadelig for foreningen, kan vedkommende suspenderes som medlem etter vedtak av årsmøtet eller ekstraordinært årsmøte. Forslag om suspendering av medlemmer skal fremmes som sak til Årsmøtet eller Ekstraordinært Årsmøte på lik linje med andre saker, og stemmes over på lik linje med andre saker.
 
 
-# Stemmerett
+## Stemmerett
 Alle medlemskap gir en stemme på årsmøte. Totalt kan antall stemmer fra en og samme bedrift ikke overstige 5 stemmer. Oppmøtte fra samme bedrift skal gi beskjed om hvilke 5 oppmøtte som skal bruke stemmerett.
 
 
-# Årsmøtet
+## Årsmøtet
 Årsmøtet er foreningens høyeste organ. Årsmøtet utpeker et styre som leder foreningens daglige virksomhet.
 
 Ordinært årsmøte holdes hvert år innen 1. juni. Saksliste og dokumenter sendes senest 14 dager før møtet. Styret skal skal sende ut forespørsel om saker til Årsmøtet senest 4 uker før innkallingen sendes ut, med en frist for innsendelse 1 uke før innkallingen sendes ut.
@@ -61,7 +63,7 @@ Det ordinære årsmøtet skal behandle følgende saker i oppgitt rekkefølge:
 Dersom enkelte punkter på agenda ikke blir godkjent må det innkalles til ekstraordinært årsmøte for behandling av disse.
 
 
-# Avstemming
+### Avstemming
 Avstemming på Årsmøte skal gjennomføres i henhold til følgende prosedyre.
  - For å stemme må man ha gyldig medlemskap for inneværende år.
  - Det skal gjennomføres avstemming for alle roller til styret.
@@ -74,11 +76,11 @@ Simpelt flertall: https://no.wikipedia.org/wiki/Simpelt_flertall
 Absolutt flertall: https://no.wikipedia.org/wiki/Absolutt_flertall
 
 
-# Ekstraordinært årsmøte
+### Ekstraordinært årsmøte
 Ekstraordinært årsmøte skal holdes innen 4 uker når 1/3 av styrets medlemmer eller 1/5 av de stemmeberettigede medlemmene krever det. På en ekstraordinær årsmøte kan det kun behandles saker som er nevnt i innkallingen.
 
 
-# Styret
+## Styret
 Styret består av 5-15 medlemmer, og er beslutningsdyktig når minst 2/3 av styrets medlemmer er tilstede.
 
 Alle medlemmer har rett til å stille forslag som må behandles på neste styremøtet. Resultatet må føres i protokollen.
@@ -91,7 +93,7 @@ Styret fastlegger program for foreningens aktiviteter, og koordinerer gjennomfø
 
 Ledervervet bør hvis mulig tildeles en person med minimum ett års erfaring fra styret. Hvert kjerneområde skal ha tildelt en representant i styret.
 
-# Ansvarsoppgaver
+### Ansvarsoppgaver
  - Fastsettelse av medlemskapskontingent
  - Bistå og etablere regionslag
  - Håndtere ekstern kommunikasjon
@@ -104,35 +106,35 @@ Ledervervet bør hvis mulig tildeles en person med minimum ett års erfaring fra
  - Ivareta kjerneområder til JavaBin
 
 
-# javaBin Økonomi AS - Org. nr. 991 812 733
+## javaBin Økonomi AS - Org. nr. 991 812 733
 javaBin eier 100% av javaBin Økonomi AS hvis hensikt er å forhindre økonomisk risiko og arrangering av javaZone. Styret kan ikke selge aksjene i javaBin Økomoni, gjøre emisjoner eller endre vedtektene.
 
 For arrangering av JavaZone skal foretaket javaBin Økonomi AS (Org. nr. 991 812 733) benyttes for å fjerne økonomisk risiko fra arrangørene. Som eneeier av foretakets aksjer skal ikke javaBin selge noen av foretakets akjer og javaBin skal til en hver tid ha minimum to representanter i javaBin Økonomi AS. Dette værer seg leder for JavaZone-gruppens leder ansvarlig og en person til fra javaBins styre.
 
 
-# Valgkomité
+## Valgkomité
 
-## Formål
+### Formål
 Valgkomiteen skal legge frem innstilling på kandidater til styreleder, nestleder, økonomiansvarlig og øvrige styremedlemmer.
 
 
-## Oppnevning
+### Oppnevning
 Valgkomiteen oppnevnes av årsmøtet etter innstilling fra styret for ett år om gangen. Ingen fra styret skal sitte i valgkomiteen.
 
-## Hovedmål/Funksjon
+### Hovedmål/Funksjon
 Sikre kandidater for de tilgjengelige styreplasser slik at disse blir besatt i henhold til foreningens vedtekter.
 
 
-## Rapportering
+### Rapportering
 Valgkomitéen skal legge frem forslag på styre for årsmøtet, med sammensetning som angitt i vedtektene.
 
 
-## Endring av vedtekter
+### Endring av vedtekter
 Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. Vedtektsendringer skal for å være vedtatt, ha flertall med minst 2/3 av de avgitte stemmer på årsmøtet. Forslag til vedtektsendringer må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Avstemning om vedtektsendringer gjøres som ved absolutt flertall, hvor forslaget må ha 2/3 av stemmene avgitt av stemmeberettigede. Dette inkluderer blanke stemmer som vil telle mot forslaget.
 
 
-## Oppløsning
+### Oppløsning
 Foreningen kan oppløses på et ordinært årsmøte med minst 2/3 flertall. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
-## Exit fra styret
+### Exit fra styret
 Et medlem kan ved særskilte situasjoner be om en exit fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
