@@ -119,7 +119,7 @@ Valgkomiteen skal legge frem innstilling på kandidater til styreleder, nestlede
 
 
 ### Oppnevning
-Valgkomiteen oppnevnes av årsmøtet etter innstilling fra styret for ett år om gangen. Ingen fra styret skal sitte i valgkomiteen.
+Valgkomiteen oppnevnes av årsmøtet etter innstilling fra styret for ett år om gangen.
 
 ### Hovedmål/Funksjon
 Sikre kandidater for de tilgjengelige styreplasser slik at disse blir besatt i henhold til foreningens vedtekter.
