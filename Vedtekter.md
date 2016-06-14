@@ -5,14 +5,14 @@ Foreningens navn er "Java brukerforening i Norge". Forkortet skrives navnet "jav
 
 ## Formål
 Foreningens formål er å:
- - styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
- - skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
+ - Styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
+ - Skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
 
 Foreningen søker å nå sine mål, blant annet ved å:
- - skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
- - arrangere seminarer, kurser og liknende, alene eller i samarbeid med andre faglige sammenslutninger.
- - arrangere medlemsmøter med faglige foredrag, diskusjoner og uformelt samvær.
- - holde kontakt og utveksle erfaringer med andre tilsvarende foreninger i utlandet.
+ - Skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
+ - Arrangere seminarer, kurser og liknende, alene eller i samarbeid med andre faglige sammenslutninger.
+ - Arrangere medlemsmøter med faglige foredrag, diskusjoner og uformelt samvær.
+ - Holde kontakt og utveksle erfaringer med andre tilsvarende foreninger i utlandet.
 
 Foreningen har ingen kommersielle interesser og må ikke engasjere seg i aktiviteter som utelukkende tjener økonomiske formål. Foreningen opptrer ikke som representant for noen yrkes- eller næringsgruppe til fremme av dens økonomiske interesser. Foreningen og dens organer og hjelpemidler, må ikke brukes til arbeid for politiske eller forretningsmessige særinteresser.
 
@@ -28,9 +28,9 @@ bunter (f.eks 15, 30, 50, 100+) tilpasset bedrifter med flere medlemmer.
 Bedrifter kan selv administrere sine personlige medlemskap.
 
 Medlemskap gir:
- - valgbarhet til verv innen foreningen
- - tilgang til alle foreningens arrangementer
- - redusert pris på arrangementer
+ - Valgbarhet til verv innen foreningen
+ - Tilgang til alle foreningens arrangementer
+ - Redusert pris på arrangementer
 
 Tilgang til foreningens aktiviteter gis til alle medlemmer.
 
@@ -136,5 +136,5 @@ Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. V
 ### Oppløsning
 Foreningen kan oppløses på et ordinært årsmøte med minst 2/3 flertall. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
-### Exit fra styret
-Et medlem kan ved særskilte situasjoner be om en exit fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
+### Avgang fra styret
+Et medlem kan ved særskilte situasjoner be om en avgang fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
