@@ -47,7 +47,8 @@ Alle medlemskap gir en stemme på årsmøte. Totalt kan antall stemmer fra en og
 ## Årsmøtet
 Årsmøtet er foreningens høyeste organ. Årsmøtet utpeker et styre som leder foreningens daglige virksomhet.
 
-Ordinært årsmøte holdes hvert år innen 1. juni. Saksliste og dokumenter sendes senest 14 dager før møtet. Styret skal skal sende ut forespørsel om saker til Årsmøtet senest 4 uker før innkallingen sendes ut, med en frist for innsendelse 1 uke før innkallingen sendes ut.
+Ordinært årsmøte holdes hvert år innen 1. juni. Saksliste og dokumenter sendes senest 14 dager før møtet. Styret skal skal sende ut forespørsel om saker til Årsmøtet til samtlige medlemmer senest 4 uker før innkallingen sendes ut, med en frist for innsendelse 1 uke før innkallingen sendes ut.
+
 Det ordinære årsmøtet skal behandle følgende saker i oppgitt rekkefølge:
  1. Valg av møteleder og referent
  2. Godkjennelse av innkallingen, representantene og deres stemmerett
