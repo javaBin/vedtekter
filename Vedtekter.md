@@ -136,5 +136,5 @@ Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. V
 ### Oppløsning
 Foreningen kan oppløses på et ordinært årsmøte med minst 2/3 flertall. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
-### Exit fra styret
-Et medlem kan ved særskilte situasjoner be om en exit fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
+### Avgang fra styret
+Et medlem kan ved særskilte situasjoner be om en avgang fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
