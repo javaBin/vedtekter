@@ -63,10 +63,10 @@ Det ordinære årsmøtet skal behandle følgende saker i oppgitt rekkefølge:
 Dersom enkelte punkter på agenda ikke blir godkjent må det innkalles til ekstraordinært årsmøte for behandling av disse.
 
 
-### Avstemming
-Avstemming på Årsmøte skal gjennomføres i henhold til følgende prosedyre.
+### Avstemning
+Avstemning på Årsmøte skal gjennomføres i henhold til følgende prosedyre.
  - For å stemme må man ha gyldig medlemskap for inneværende år.
- - Det skal gjennomføres avstemming for alle roller til styret.
+ - Det skal gjennomføres avstemning for alle roller til styret.
  - Stemming gjennomføres ved å telle antall stemmer for, mot og blanke og kandidaten må positivt flertall av ikke-blanke stemmer.
  - Man har 1 stemme per rolle til leder, nestleder og økonomiansvarlig. Rollen besettes ved absolutt flertall.
  - Man har 1 stemme per kandidat til øvrige styremedlemmer. Disse stemmes det på én etter én, og alle stemmeberettigede avgir sin stemme på hver kandidat. En kandidat må ha positivt (antall 'ja' minus antall 'nei') for å bli valgt inn.
