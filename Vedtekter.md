@@ -23,9 +23,7 @@ Det kan opprettes undergrupper blant foreningens medlemmer med styrets godkjenni
 Styret kan definere et sett med kjerneundergrupper. De har samme ansvar og oppgaver som vanlige undergrupper, men leder av gruppen må være et styremedlem.
 
 ## Medlemskap
-Foreningen har personmedlemskap. Medlemsskap kan kjøpes enkeltvis eller i
-bunter (f.eks 15, 30, 50, 100+) tilpasset bedrifter med flere medlemmer.
-Bedrifter kan selv administrere sine personlige medlemskap.
+Foreningen har personmedlemskap. Medlemsskap selges både direkte og som en del av JavaZone-billetten.
 
 Medlemskap gir:
  - valgbarhet til verv innen foreningen
