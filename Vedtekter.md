@@ -5,14 +5,14 @@ Foreningens navn er "Java brukerforening i Norge". Forkortet skrives navnet "jav
 
 ## Formål
 Foreningens formål er å:
- - styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
- - skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
+ - Styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
+ - Skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
 
 Foreningen søker å nå sine mål, blant annet ved å:
- - skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
- - arrangere seminarer, kurser og liknende, alene eller i samarbeid med andre faglige sammenslutninger.
- - arrangere medlemsmøter med faglige foredrag, diskusjoner og uformelt samvær.
- - holde kontakt og utveksle erfaringer med andre tilsvarende foreninger i utlandet.
+ - Skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
+ - Arrangere seminarer, kurser og liknende, alene eller i samarbeid med andre faglige sammenslutninger.
+ - Arrangere medlemsmøter med faglige foredrag, diskusjoner og uformelt samvær.
+ - Holde kontakt og utveksle erfaringer med andre tilsvarende foreninger i utlandet.
 
 Foreningen har ingen kommersielle interesser og må ikke engasjere seg i aktiviteter som utelukkende tjener økonomiske formål. Foreningen opptrer ikke som representant for noen yrkes- eller næringsgruppe til fremme av dens økonomiske interesser. Foreningen og dens organer og hjelpemidler, må ikke brukes til arbeid for politiske eller forretningsmessige særinteresser.
 
@@ -26,9 +26,9 @@ Styret kan definere et sett med kjerneundergrupper. De har samme ansvar og oppga
 Foreningen har personmedlemskap. Medlemsskap selges både direkte og som en del av JavaZone-billetten.
 
 Medlemskap gir:
- - valgbarhet til verv innen foreningen
- - tilgang til alle foreningens arrangementer
- - redusert pris på arrangementer
+ - Valgbarhet til verv innen foreningen
+ - Tilgang til alle foreningens arrangementer
+ - Redusert pris på arrangementer
 
 Tilgang til foreningens aktiviteter gis til alle medlemmer.
 
