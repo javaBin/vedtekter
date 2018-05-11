@@ -131,7 +131,7 @@ Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. V
 
 
 ## Oppløsning
-Foreningen kan oppløses på et ordinært årsmøte med minst 4/5 flertall. Forslag om oppløsning må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
+Foreningen kan oppløses på et ordinært årsmøte med minst 2/3 flertall. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
 
 ### Avgang fra styret
