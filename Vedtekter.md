@@ -74,7 +74,8 @@ Avstemning på Årsmøte skal gjennomføres i henhold til følgende prosedyre.
  - Er det flere kandidater til valg enn styreplasser, sorteres kandidatene etter antall positive stemmer. Dersom det står likt mellom noen kandidater til de siste plassene, avgjøres det med ny stemmerunde hvor man da skal stemme på én av kandidatene. Den/de som får flest stemmer får plass i styret.
 
 ### Ekstraordinært årsmøte
-Ekstraordinært årsmøte skal holdes innen 4 uker når 1/3 av styrets medlemmer eller 1/5 av de stemmeberettigede medlemmene krever det. På en ekstraordinær årsmøte kan det kun behandles saker som er nevnt i innkallingen.
+Ekstraordinært årsmøte skal holdes innen 4 uker når enten 1/3 av styrets medlemmer eller 1/5 av de stemmeberettigede medlemmene eller 50 av de stemmeberettigede medlemmene 
+krever det. På en ekstraordinær årsmøte kan det kun behandles saker som er nevnt i innkallingen.
 
 
 ## Styret
