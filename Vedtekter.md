@@ -17,7 +17,7 @@ Foreningen søker å nå sine mål, blant annet ved å:
 Foreningen har ingen kommersielle interesser og må ikke engasjere seg i aktiviteter som utelukkende tjener økonomiske formål. Foreningen opptrer ikke som representant for noen yrkes- eller næringsgruppe til fremme av dens økonomiske interesser. Foreningen og dens organer og hjelpemidler, må ikke brukes til arbeid for politiske eller forretningsmessige særinteresser.
 
 ## Undergrupper
-Det kan opprettes undergrupper blant foreningens medlemmer med styrets godkjenning. Hver slik gruppe skal ha en leder og varaleder. Gruppen må rapportere til styret. Styret kan bevilge resurser til disse gruppene, inklusive økonomisk støtte og tilgang til javaBins systemer og infrastruktur.
+Det kan opprettes undergrupper blant foreningens medlemmer med styrets godkjenning. Hver slik gruppe skal ha en leder og varaleder som velges for ett år om gangen. Gruppen må rapportere til styret. Styret kan bevilge resurser til disse gruppene, inklusive økonomisk støtte og tilgang til javaBins systemer og infrastruktur.
 
 ## Kjerneundergrupper
 Styret kan definere et sett med kjerneundergrupper. De har samme ansvar og oppgaver som vanlige undergrupper, men leder av gruppen må være et styremedlem.
