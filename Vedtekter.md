@@ -41,6 +41,8 @@ Opptrer et medlem på et måte som er skadelig for foreningen, kan vedkommende s
 ## Stemmerett
 Alle medlemskap gir en stemme på årsmøte. Totalt kan antall stemmer fra en og samme bedrift ikke overstige 5 stemmer. Oppmøtte fra samme bedrift skal gi beskjed om hvilke 5 oppmøtte som skal bruke stemmerett.
 
+### Fullmakter
+En person kan ha med opptil 3 fullmakter fra medlemmer som ikke kan være til stede. Hver av disse teller som 1 stemme. 
 
 ## Årsmøtet
 Årsmøtet er foreningens høyeste organ. Årsmøtet utpeker et styre som leder foreningens daglige virksomhet.
