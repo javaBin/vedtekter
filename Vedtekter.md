@@ -59,7 +59,7 @@ Det ordinære årsmøtet skal behandle følgende saker i oppgitt rekkefølge:
  3. Styrets årsberetning
  4. Regnskapet
  5. Budsjettet
- 6. Innkomne forslag, inkluder vedtekstendringer
+ 6. Innkomne forslag, inkludert vedtekstendringer
  7. Valg av nytt styre
 
 Dersom enkelte punkter på agenda ikke blir godkjent må det innkalles til ekstraordinært årsmøte for behandling av disse.
