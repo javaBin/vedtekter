@@ -132,13 +132,13 @@ Vedtektene kan kun endres av årsmøtet etter forslag fra styret eller medlem.
 
 Ved endringer av paragrafene "Endring av Vedtekter", "Oppløsning" og "Formål" må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. For øvrige paragrafer må minst 2/3 av de stemmeberettigede på årsmøtet stemme for. 
 
-Endringer av paragrafen "Oppløsning" må i tillegg vedtas på to etterfølgende Årsmøter med minst to måneders mellomrom for å være gyldige.
+Endringer av paragrafen "Oppløsning" må i tillegg vedtas på to etterfølgende årsmøter med minst to måneders mellomrom for å være gyldige.
 
-Vedteksendinger trer i kraft når Årsmøtet er avsluttet.
+Vedteksendinger trer i kraft når årsmøtet er avsluttet.
 
 ## Oppløsning
 
-Foreningen kan oppløses dersom dette blir vedtatt på to etterfølgende Årsmøter med minst to måneders mellomrom. For at vedtak om oppløsning skal være gyldig, må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. 
+Foreningen kan oppløses dersom dette blir vedtatt på to etterfølgende årsmøter med minst to måneders mellomrom. For at vedtak om oppløsning skal være gyldig, må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. 
 
 Ved gyldig beslutning om oppløsning skal foreningens midler anvendes etter formålsparagrafen. Årsmøtet som vedtar oppløsningen utpeker de som skal gjennomføre avviklingen.
 
