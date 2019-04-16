@@ -140,7 +140,7 @@ Vedteksendinger trer i kraft når årsmøtet er avsluttet.
 
 Foreningen kan oppløses dersom dette blir vedtatt på to etterfølgende årsmøter med minst to måneders mellomrom. For at vedtak om oppløsning skal være gyldig, må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. 
 
-Ved gyldig beslutning om oppløsning skal foreningens midler anvendes etter formålsparagrafen. Årsmøtet som vedtar oppløsningen utpeker de som skal gjennomføre avviklingen.
+Ved gyldig beslutning om oppløsning skal foreningens midler anvendes etter formålsparagrafen. Årsmøtet som vedtar den endelige oppløsningen utpeker de som skal gjennomføre avviklingen.
 
 ### Avgang fra styret
 Et medlem kan ved særskilte situasjoner be om en avgang fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
