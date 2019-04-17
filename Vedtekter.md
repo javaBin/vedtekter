@@ -79,7 +79,7 @@ krever det. På en ekstraordinær årsmøte kan det kun behandles saker som er n
 
 
 ## Styret
-Styret består av 5-15 medlemmer, og er beslutningsdyktig når minst 2/3 av styrets medlemmer er tilstede.
+Styret består av 5-9 medlemmer, og er beslutningsdyktig når minst 2/3 av styrets medlemmer er tilstede.
 
 Alle medlemmer har rett til å stille forslag som må behandles på neste styremøtet. Resultatet må føres i protokollen.
 
