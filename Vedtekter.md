@@ -44,7 +44,7 @@ Alle medlemskap gir en stemme på årsmøte.
 ### Begrensning for ansatt i samme bedrift
 Totalt kan antall stemmer fra en og samme bedrift ikke overstige 5. 
 
-Dersom antall oppmøtte medlemmer og fullmakter fra medlemmer i en enkelt bedrift overstiger 5, skal disse informere Årsmøtet om hvilke 5 stemmer som skal benyttes.
+Dersom antall oppmøtte medlemmer og fullmakter fra medlemmer i en enkelt bedrift overstiger 5, skal disse informere Årsmøtet om hvilke 5 stemmer som skal benyttes. Ved konflikt har oppmøtte medlemmer rang over fullmakter. Ved konflikt mellom oppmøtte medlemmer i samme bedrift avgjøres stemmerett ved loddtrekning.
 
 ## Årsmøtet
 Årsmøtet er foreningens høyeste organ. Årsmøtet utpeker et styre som leder foreningens daglige virksomhet.
