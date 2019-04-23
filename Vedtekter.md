@@ -134,8 +134,6 @@ Ved endringer av paragrafene "Endring av Vedtekter", "Oppløsning" og "Formål" 
 
 Endringer av paragrafen "Oppløsning" må i tillegg vedtas på to etterfølgende årsmøter med minst to måneders mellomrom for å være gyldige.
 
-Vedteksendinger trer i kraft når årsmøtet er avsluttet.
-
 ## Oppløsning
 
 Foreningen kan oppløses dersom dette blir vedtatt på to etterfølgende årsmøter med minst to måneders mellomrom. For at vedtak om oppløsning skal være gyldig, må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. 
