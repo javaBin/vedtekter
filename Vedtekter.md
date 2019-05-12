@@ -87,7 +87,7 @@ Styret består av 5-15 medlemmer, og er beslutningsdyktig når minst 2/3 av styr
 
 Alle medlemmer har rett til å stille forslag som må behandles på neste styremøtet. Resultatet må føres i protokollen.
 
-Leder, nestleder, økonomisjef og ledere for eventuelle kjernegrupper velges for ett år av gangen ved særskilt valg, og kan kun sitte i to år sammenhengende. Øvrige styremedlemmer velges for to år av gangen. Styreverv er personlig.
+Leder, nestleder, økonomisjef og ledere for eventuelle kjernegrupper velges for ett år av gangen ved særskilt valg. Leder og nestleder kan kun sitte i to år sammenhengende. Øvrige styremedlemmer velges for to år av gangen. Styreverv er personlig.
 
 Styret fører kartotek over medlemmene til enhver tid.
 
