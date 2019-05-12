@@ -39,27 +39,31 @@ Opptrer et medlem på et måte som er skadelig for foreningen, kan vedkommende s
 
 
 ## Stemmerett
-Alle medlemskap gir en stemme på årsmøte. Totalt kan antall stemmer fra en og samme bedrift ikke overstige 5 stemmer. Oppmøtte fra samme bedrift skal gi beskjed om hvilke 5 oppmøtte som skal bruke stemmerett.
+Alle medlemskap gir en stemme på årsmøte. 
 
+### Fullmakter
+En person kan ha med opptil 3 fullmakter fra medlemmer som ikke kan være til stede. Hver av disse teller som 1 stemme. 
+
+### Begrensning for ansatt i samme bedrift
+Totalt kan antall stemmer fra en og samme bedrift ikke overstige 5. 
+
+Dersom antall oppmøtte medlemmer og fullmakter fra medlemmer i en enkelt bedrift overstiger 5, skal disse informere Årsmøtet om hvilke 5 stemmer som skal benyttes. Ved konflikt har oppmøtte medlemmer rang over fullmakter. Ved konflikt mellom oppmøtte medlemmer i samme bedrift avgjøres stemmerett ved loddtrekning.
 
 ## Årsmøtet
 Årsmøtet er foreningens høyeste organ. Årsmøtet utpeker et styre som leder foreningens daglige virksomhet.
 
-Ordinært årsmøte holdes hvert år innen 1. juni. Styret skal sende ut forespørsel om saker til Årsmøtet til samtlige medlemmer senest 4 uker før innkallingen sendes ut, med en frist for innsendelse 1 uke før innkallingen sendes ut.
+Ordinært årsmøte holdes hvert år innen 1. juni. Innkallingen til årsmøtet skal sendes minst to uker før Årsmøtet skal avholdes. Innkallingen skal inneholde saksliste og dokumenter. Det er kun sakene på denne saklisten som kan behandles av årsmøtet.
 
-Saksliste og dokumenter sendes senest 14 dager før møtet.
+Styret skal sende ut forespørsel om saker til årsmøtet til samtlige medlemmer senest 4 uker før innkallingen sendes ut, med en frist for innsendelse 2 uker før innkallingen sendes ut.
 
 Det ordinære årsmøtet skal behandle følgende saker i oppgitt rekkefølge:
  1. Valg av møteleder og referent
  2. Godkjennelse av innkallingen, representantene og deres stemmerett
- 3. Årsberetningen
+ 3. Styrets årsberetning
  4. Regnskapet
  5. Budsjettet
- 6. Eventuelle vedtektsendringer
- 7. Eventuelle endringer i kjerneundergrupper
- 8. Andre innkomne forslag (kan ikke være vedtektsendringer)
- 9. Spørsmål & Svar
- 10. Valg av nytt styre
+ 6. Innkomne forslag, inkludert vedtekstendringer
+ 7. Valg av nytt styre
 
 Dersom enkelte punkter på agenda ikke blir godkjent må det innkalles til ekstraordinært årsmøte for behandling av disse.
 
@@ -83,7 +87,7 @@ Styret består av 5-15 medlemmer, og er beslutningsdyktig når minst 2/3 av styr
 
 Alle medlemmer har rett til å stille forslag som må behandles på neste styremøtet. Resultatet må føres i protokollen.
 
-Leder, nestleder, og økonomisjef velges for ett år av gangen ved særskilt valg, og kan kun sitte i to år sammenhengende. Øvrige styremedlemmer velges for to år av gangen. Styreverv er personlig.
+Leder, nestleder og økonomisjef velges for ett år av gangen ved særskilt valg. Leder og nestleder kan kun sitte i to år sammenhengende. Øvrige styremedlemmer velges for to år av gangen. Styreverv er personlig.
 
 Styret fører kartotek over medlemmene til enhver tid.
 
@@ -128,12 +132,17 @@ Valgkomitéen skal legge frem forslag på styre for årsmøtet, med sammensetnin
 
 
 ## Endring av vedtekter
-Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. Vedtektsendringer skal for å være vedtatt, ha flertall med minst 2/3 av de avgitte stemmer på årsmøtet. Forslag til vedtektsendringer må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Avstemning om vedtektsendringer gjøres som ved absolutt flertall, hvor forslaget må ha 2/3 av stemmene avgitt av stemmeberettigede. Dette inkluderer blanke stemmer som vil telle mot forslaget.
+Vedtektene kan kun endres av årsmøtet etter forslag fra styret eller medlem. 
 
+Ved endringer av paragrafene "Endring av Vedtekter", "Oppløsning" og "Formål" må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. For øvrige paragrafer må minst 2/3 av de stemmeberettigede på årsmøtet stemme for. 
+
+Endringer av paragrafen "Oppløsning" må i tillegg vedtas på to etterfølgende årsmøter med minst to måneders mellomrom for å være gyldige.
 
 ## Oppløsning
-Foreningen kan oppløses på et ordinært årsmøte med minst 4/5 flertall. Forslag om oppløsning må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
+Foreningen kan oppløses dersom dette blir vedtatt på to etterfølgende årsmøter med minst to måneders mellomrom. For at vedtak om oppløsning skal være gyldig, må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. 
+
+Ved gyldig beslutning om oppløsning skal foreningens midler anvendes etter formålsparagrafen. Årsmøtet som vedtar den endelige oppløsningen utpeker de som skal gjennomføre avviklingen.
 
 ### Avgang fra styret
 Et medlem kan ved særskilte situasjoner be om en avgang fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
