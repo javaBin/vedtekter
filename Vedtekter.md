@@ -129,12 +129,17 @@ Valgkomitéen skal legge frem forslag på styre for årsmøtet, med sammensetnin
 
 
 ## Endring av vedtekter
-Vedtektene kan endres kun av årsmøtet etter forslag fra styret eller medlem. Vedtektsendringer skal for å være vedtatt, ha flertall med minst 2/3 av de avgitte stemmer på årsmøtet. Forslag til vedtektsendringer må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Avstemning om vedtektsendringer gjøres som ved absolutt flertall, hvor forslaget må ha 2/3 av stemmene avgitt av stemmeberettigede. Dette inkluderer blanke stemmer som vil telle mot forslaget.
+Vedtektene kan kun endres av årsmøtet etter forslag fra styret eller medlem. 
 
+Ved endringer av paragrafene "Endring av Vedtekter", "Oppløsning" og "Formål" må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. For øvrige paragrafer må minst 2/3 av de stemmeberettigede på årsmøtet stemme for. 
+
+Endringer av paragrafen "Oppløsning" må i tillegg vedtas på to etterfølgende årsmøter med minst to måneders mellomrom for å være gyldige.
 
 ## Oppløsning
-Foreningen kan oppløses på et ordinært årsmøte med minst 4/5 flertall. Forslag om oppløsning må ha vært sendt ut sammen med innkallingen for å kunne behandles av Årsmøtet. Ved gyldig beslutning om oppløsning skal det fattes beslutning om hvordan foreningens midler skal anvendes. Denne beslutning fattes med alminnelig flertall.
 
+Foreningen kan oppløses dersom dette blir vedtatt på to etterfølgende årsmøter med minst to måneders mellomrom. For at vedtak om oppløsning skal være gyldig, må minst 4/5 av de stemmeberettigede på årsmøtet stemme for. 
+
+Ved gyldig beslutning om oppløsning skal foreningens midler anvendes etter formålsparagrafen. Årsmøtet som vedtar den endelige oppløsningen utpeker de som skal gjennomføre avviklingen.
 
 ### Avgang fra styret
 Et medlem kan ved særskilte situasjoner be om en avgang fra styret. Søknaden skal behandles av styret og må godkjennes med 2/3 flertall av de stemmeberettigede. Styret kan konstituere en midlertidig kandidat til rollen fra det sittende styret, evt. be om ekstraordinært Årsmøte for å velge ny kandidat til rollen.
