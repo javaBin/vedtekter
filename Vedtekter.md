@@ -41,6 +41,9 @@ Opptrer et medlem på et måte som er skadelig for foreningen, kan vedkommende s
 ## Stemmerett
 Alle medlemskap gir en stemme på årsmøte. 
 
+### Fullmakter
+En person kan ha med opptil 3 fullmakter fra medlemmer som ikke kan være til stede. Hver av disse teller som 1 stemme. 
+
 ### Begrensning for ansatt i samme bedrift
 Totalt kan antall stemmer fra en og samme bedrift ikke overstige 5. 
 
