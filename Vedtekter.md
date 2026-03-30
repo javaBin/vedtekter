@@ -5,8 +5,8 @@ Foreningens navn er "Java brukerforening i Norge". Forkortet skrives navnet "jav
 
 ## Formål
 Foreningens formål er å:
- - styrke det faglige nivå innen Java-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
- - skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i Java-teknologi.
+ - styrke det faglige nivå innen software-teknologi ved å utbre kjennskap til relevante resultater, praktisk metodikk og nyttige hjelpemidler.
+ - skape kontakt og å fremme utveksling av kunnskap, erfaringer og synspunkter mellom dem som er interessert i software-teknologi.
 
 Foreningen søker å nå sine mål, blant annet ved å:
  - skape et miljø der foreningens medlemmer kan etablere faggrupper og prosjektorienterte aktiviteter.
