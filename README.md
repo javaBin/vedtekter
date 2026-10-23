@@ -2,14 +2,14 @@
 
 Her finner du vedtektene for Java Brukerforening i Norge og JavaBin Økonomi AS
 
-Vedtekter.md inneholder vedtektene for javaBin og Vedtekter_javabin_okonimi_as inneholder vedtektene for JavaBin Økonomi AS
+Vedtekter.md inneholder vedtektene for javaBin og Vedtekter_javabin_okonomi_as inneholder vedtektene for JavaBin Økonomi AS
 
 Master er de gjeldende vedtekene.
 
 
 # Endringer av vedtektene til Java Brukerforening i Norge
 
-Ønsket endring skal lages som en PR for å holde styre på hva som endres. Disse vil da bli stemt over på generalforsamlingen.
+Ønsket endring skal lages som en PR for å holde styr på hva som endres. Disse vil da bli stemt over på generalforsamlingen.
 
 # Endringer av vedtektene til JavaBin Økonomi AS
 
